@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, my name is Haokai Xi, and I am a graduate student at Lingnan University in Hong Kong, pursuing a Master of Science in Computational Technology Plus (MScCT+). My academic journey has been diverse and enriching, reflecting my passion for continuous learning and interdisciplinary knowledge.
+Hello, my name is Kaixi Hao, and I am a graduate student at Lingnan University in Hong Kong, pursuing a Master of Science in Computational Technology Plus (MScCT+). My academic journey has been diverse and enriching, reflecting my passion for continuous learning and interdisciplinary knowledge.
 
 I completed my undergraduate studies at Fudan University, where I earned a Bachelor of Science degree in International Economics and Trade. During my time at Fudan, I was consistently recognized for my academic excellence, receiving multiple scholarships. These achievements not only validated my dedication to my studies but also motivated me to explore various fields beyond my primary discipline.
 
